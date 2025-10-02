@@ -1,0 +1,9 @@
+/**
+ * App Global Styles
+ * Mobile-first: Reset và global styles
+ */
+
+#root {
+  width: 100%;
+  height: 100%;
+}
